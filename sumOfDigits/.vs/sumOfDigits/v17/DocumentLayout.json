@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palestine\\source\\repos\\sumOfDigits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01DF90B0-5B2F-41AC-AC41-4F53C2523828}|sumOfDigits\\sumOfDigits.vcxproj|C:\\Users\\Palestine\\source\\repos\\sumOfDigits\\sumOfDigits\\sumOfDigits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01DF90B0-5B2F-41AC-AC41-4F53C2523828}|sumOfDigits\\sumOfDigits.vcxproj|solutionrelative:sumOfDigits\\sumOfDigits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sumOfDigits.cpp",
+              "DocumentMoniker": "C:\\Users\\Palestine\\source\\repos\\sumOfDigits\\sumOfDigits\\sumOfDigits.cpp",
+              "RelativeDocumentMoniker": "sumOfDigits\\sumOfDigits.cpp",
+              "ToolTip": "C:\\Users\\Palestine\\source\\repos\\sumOfDigits\\sumOfDigits\\sumOfDigits.cpp",
+              "RelativeToolTip": "sumOfDigits\\sumOfDigits.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T22:19:42.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

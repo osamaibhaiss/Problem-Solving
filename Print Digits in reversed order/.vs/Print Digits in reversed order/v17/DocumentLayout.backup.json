@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palestine\\source\\repos\\Print Digits in reversed order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16725028-6994-4AE1-A704-3A710C15071A}|Print Digits in reversed order\\Print Digits in reversed order.vcxproj|C:\\Users\\Palestine\\source\\repos\\Print Digits in reversed order\\Print Digits in reversed order\\Print Digits in reversed order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16725028-6994-4AE1-A704-3A710C15071A}|Print Digits in reversed order\\Print Digits in reversed order.vcxproj|solutionrelative:Print Digits in reversed order\\Print Digits in reversed order.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print Digits in reversed order.cpp",
+              "DocumentMoniker": "C:\\Users\\Palestine\\source\\repos\\Print Digits in reversed order\\Print Digits in reversed order\\Print Digits in reversed order.cpp",
+              "RelativeDocumentMoniker": "Print Digits in reversed order\\Print Digits in reversed order.cpp",
+              "ToolTip": "C:\\Users\\Palestine\\source\\repos\\Print Digits in reversed order\\Print Digits in reversed order\\Print Digits in reversed order.cpp*",
+              "RelativeToolTip": "Print Digits in reversed order\\Print Digits in reversed order.cpp*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T21:57:02.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
