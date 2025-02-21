@@ -1,0 +1,3 @@
+﻿  Rand Charcaters.cpp
+C:\Users\Palestine\source\repos\C++ Problem Solving\Rand Charcaters\Rand Charcaters\Rand Charcaters.cpp(39,1): warning C4715: 'GetRandomCharacter': not all control paths return a value
+  Rand Charcaters.vcxproj -> C:\Users\Palestine\source\repos\C++ Problem Solving\Rand Charcaters\x64\Debug\Rand Charcaters.exe
