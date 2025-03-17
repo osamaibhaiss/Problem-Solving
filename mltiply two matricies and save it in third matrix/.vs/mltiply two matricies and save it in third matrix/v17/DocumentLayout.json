@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\mltiply two matricies and save it in third matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765506D0-81F0-447A-836F-DB5ED3375761}|mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.vcxproj|C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765506D0-81F0-447A-836F-DB5ED3375761}|mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.vcxproj|solutionrelative:mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mltiply two matricies and save it in third matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.cpp",
+              "RelativeDocumentMoniker": "mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.cpp",
+              "ToolTip": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.cpp",
+              "RelativeToolTip": "mltiply two matricies and save it in third matrix\\mltiply two matricies and save it in third matrix.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T00:00:49.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

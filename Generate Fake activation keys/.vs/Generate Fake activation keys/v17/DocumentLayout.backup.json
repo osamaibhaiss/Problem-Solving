@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Generate Fake activation keys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DC0352-2DF6-4FAF-B710-39BCFA311C87}|Generate Fake activation keys\\Generate Fake activation keys.vcxproj|C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Generate Fake activation keys\\Generate Fake activation keys\\Generate Fake activation keys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DC0352-2DF6-4FAF-B710-39BCFA311C87}|Generate Fake activation keys\\Generate Fake activation keys.vcxproj|solutionrelative:Generate Fake activation keys\\Generate Fake activation keys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generate Fake activation keys.cpp",
+              "DocumentMoniker": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Generate Fake activation keys\\Generate Fake activation keys\\Generate Fake activation keys.cpp",
+              "RelativeDocumentMoniker": "Generate Fake activation keys\\Generate Fake activation keys.cpp",
+              "ToolTip": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Generate Fake activation keys\\Generate Fake activation keys\\Generate Fake activation keys.cpp*",
+              "RelativeToolTip": "Generate Fake activation keys\\Generate Fake activation keys.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T16:06:45.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

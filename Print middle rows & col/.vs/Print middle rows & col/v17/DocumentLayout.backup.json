@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Print middle rows \u0026 col\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59149F9-AC9A-4CBB-99FC-14BF67157C74}|Print middle rows \u0026 col\\Print middle rows \u0026 col.vcxproj|C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Print middle rows \u0026 col\\Print middle rows \u0026 col\\Print middle rows \u0026 col.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F59149F9-AC9A-4CBB-99FC-14BF67157C74}|Print middle rows \u0026 col\\Print middle rows \u0026 col.vcxproj|solutionrelative:Print middle rows \u0026 col\\Print middle rows \u0026 col.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print middle rows \u0026 col.cpp",
+              "DocumentMoniker": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Print middle rows \u0026 col\\Print middle rows \u0026 col\\Print middle rows \u0026 col.cpp",
+              "RelativeDocumentMoniker": "Print middle rows \u0026 col\\Print middle rows \u0026 col.cpp",
+              "ToolTip": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Print middle rows \u0026 col\\Print middle rows \u0026 col\\Print middle rows \u0026 col.cpp*",
+              "RelativeToolTip": "Print middle rows \u0026 col\\Print middle rows \u0026 col.cpp*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T00:09:34.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

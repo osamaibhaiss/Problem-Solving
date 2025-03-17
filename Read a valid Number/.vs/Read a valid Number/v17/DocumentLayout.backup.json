@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Read a valid Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8482665D-0CE7-4885-8AF4-8A15759273A1}|Read a valid Number\\Read a valid Number.vcxproj|C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Read a valid Number\\Read a valid Number\\Read a valid Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8482665D-0CE7-4885-8AF4-8A15759273A1}|Read a valid Number\\Read a valid Number.vcxproj|solutionrelative:Read a valid Number\\Read a valid Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read a valid Number.cpp",
+              "DocumentMoniker": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Read a valid Number\\Read a valid Number\\Read a valid Number.cpp",
+              "RelativeDocumentMoniker": "Read a valid Number\\Read a valid Number.cpp",
+              "ToolTip": "C:\\Users\\Palestine\\source\\repos\\C\u002B\u002B Problem Solving\\Read a valid Number\\Read a valid Number\\Read a valid Number.cpp*",
+              "RelativeToolTip": "Read a valid Number\\Read a valid Number.cpp*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T23:06:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
